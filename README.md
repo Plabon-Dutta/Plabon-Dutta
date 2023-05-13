@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayonto Dutta Plabon</h1>
-<h3 align="center">A passionate competetive programmer from Bangladesh</h3>
+<h3 align="center">A passionate competitive programmer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plabon-dutta&label=Profile%20views&color=0e75b6&style=flat" alt="plabon-dutta" /> </p>
 
