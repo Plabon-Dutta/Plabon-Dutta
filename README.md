@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **plabondutta0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JeHvbi7M9x3UqFEyTVvlpQS5H_fBUl2F/view?usp=share_link](https://drive.google.com/file/d/1JeHvbi7M9x3UqFEyTVvlpQS5H_fBUl2F/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1j2JEf_g4HEf544GVweK-AGbeH5NDOdeE/view?usp=sharing)
 
 - ☕ Buy me a Coffee [https://bmc.link/plabondutta](https://bmc.link/plabondutta)
 
