@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://plabon-dutta.github.io/portfolio.github.io/](https://plabon-dutta.github.io/portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://plabon.vercel.app/](Portfolio)
 
 - 📫 How to reach me **plabondutta0@gmail.com**
 
