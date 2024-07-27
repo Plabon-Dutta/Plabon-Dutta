@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Kzo3NWjki6NeMv1DGYrHq3lfhi32JL3j/view?usp=drive_link)
 
-- ☕ Buy me a Coffee [https://bmc.link/plabondutta](https://bmc.link/plabondutta)
+- ☕ Buy me a Coffee [Here](https://bmc.link/plabondutta)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
