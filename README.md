@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plabon-dutta&label=Profile%20views&color=0e75b6&style=flat" alt="plabon-dutta" /> </p>
 
-- 🌱 I’m currently learning **DSA and Machine Learning**
+- 🌱 I’m currently learning **Software Development and DevOps**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://plabon.vercel.app/)
 
