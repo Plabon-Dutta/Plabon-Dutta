@@ -5,7 +5,7 @@
 **LLMs | Federated Learning | Machine Learning | Internet of Things**
 
 
-![Citations](https://img.shields.io/badge/Citations-60+-blue) ![h-index](https://img.shields.io/badge/h--index-9-green)
+![Citations](https://img.shields.io/badge/Citations-60+-blue) ![h-index](https://img.shields.io/badge/h--index-4-green)
 ![Q1 Journals](https://img.shields.io/badge/Q1%20Journals-5-orange) ![Conference](https://img.shields.io/badge/Conferences-1-red) ![Expertise](https://img.shields.io/badge/Expert-ML%20%2F%20DL-purple)
 
 
