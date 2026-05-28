@@ -53,7 +53,8 @@ I am currently seeking PhD opportunities where I can deepen my expertise in AI, 
   
 - **Lecturer**, Department of CSE, University of Asia Pacific (UAP), Bangladesh  
 - **Implementation Engineer**, Datasoft Systems Bangladesh LTD, Bangladesh  
-- **Software Engineer (Intern)**, Datasoft Systems Bangladesh LTD, Bangladesh  
+- **Software Engineer (Intern)**, Datasoft Systems Bangladesh LTD, Bangladesh
+- **Teaching Assistant**, Department of CSE, University of Asia Pacific (UAP), Bangladesh  
 - **Research Intern**, Advance Machine Intelligence Lab, Bangladesh  
 
 
