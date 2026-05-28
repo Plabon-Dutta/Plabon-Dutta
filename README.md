@@ -2,7 +2,7 @@
 
 
 **Lecturer | University of Asia Pacific (UAP), Bangladesh**  
-**LLMs | Federated Learning | Machine Learning | Internet of Things**
+**LLMs | Federated Learning | Explainable AI | Machine Learning | Internet of Things**
 
 
 ![Citations](https://img.shields.io/badge/Citations-60+-blue) ![h-index](https://img.shields.io/badge/h--index-4-green)
@@ -124,7 +124,7 @@ I am currently seeking PhD opportunities where I can deepen my expertise in AI, 
 
 📧 Email: plabon@uap-bd.edu  
 🔗 LinkedIn: [linkedin.com/in/jayonto-dutta-plabon](https://www.linkedin.com/in/jayonto-dutta-plabon)  
-🌐 Portfolio: [https://plabon.vercel.app/](https://plabon.vercel.app/)
+🌐 Portfolio: [https://plabon-dutta.github.io/JDPlabon/](https://plabon-dutta.github.io/JDPlabon/)
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
