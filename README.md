@@ -122,7 +122,7 @@ I am currently seeking PhD opportunities where I can deepen my expertise in AI, 
 ## Contact
 
 
-📧 Email: plabon@uap-bd.edu  
+📧 Email: connectplabon@gmail.com    
 🔗 LinkedIn: [linkedin.com/in/jayonto-dutta-plabon](https://www.linkedin.com/in/jayonto-dutta-plabon)  
 🌐 Portfolio: [https://plabon-dutta.github.io/JDPlabon/](https://plabon-dutta.github.io/JDPlabon/)
 
